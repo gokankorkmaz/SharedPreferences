@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPref</string>
+    <string name="hatirla">Beni Hatırla !</string>
+    <string name="kaydedilecek_veri">Kaydedilecek Veri</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="sil">Sil</string>
+    <string name="kaldir">Kaldır</string>
+    <string name="_2_aktivite">2.Activty</string>
+</resources>
